@@ -1,0 +1,9 @@
+                Goals and TODO's for project
+                
+Need Pages
+
+--> Home / signin
+--> Theme selection
+--> Storyboard
+--> About
+--> FAQ / Blog / Miscellaneous
